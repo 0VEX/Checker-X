@@ -44,7 +44,9 @@ check_list = [
         ['https://github.com/','github',True],
         ['https://usr.gg/','usr.gg',True],
         ['https://pinterest.com/','pinterest',True],
-        ['https://t.me/','telegram',True]]
+        ['https://t.me/','telegram',True],
+        ['https://tellonym.me/','tellonym',True],
+        ['https://tiktok.com/@','tiktok',True]]
 
 # ---------------------------------------------------------------------------------------------------------
 
