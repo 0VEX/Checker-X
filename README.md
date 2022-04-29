@@ -36,6 +36,12 @@ Love ❌ code ✅
 
 3 - if you got any issue please contact me in the issues box
   
+### 💾・To-Do-List
+
+- [ ] Adding more sites
+- [ ] Adding update check if new version comes out
+- [ ] Upgrading custom checker
+  
 ### 💠・Contact me
 <h3 align="left"></h3>
 <p align="left">
