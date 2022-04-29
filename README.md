@@ -17,8 +17,8 @@ Love ❌ code ✅
 
 #### ❔・What is Checker X :
 
-- pip installer is basic tool that help you install python libraries
-- pip installer was made by V E X
+- Checker X is basic tool that help you check for users
+- Checker X was made by V E X
   > tool preview:
   <p align="left"><img src="https://l.top4top.io/p_2310jdsfa1.png">
   
