@@ -42,3 +42,4 @@ Love ❌ code ✅
 <a href="https://instagram.com/thegreatvex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0VEX" height="30" width="40" /></a>
 <a href="https://t.me/thegreatvx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="thegreatvx" height="30" width="40" /></a>
  
+ 
